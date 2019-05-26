@@ -4,11 +4,11 @@
 ro.build.id=MMB29K
 ro.build.display.id=R16NW.G955FXXU1AQDH
 ro.build.version.incremental=G955FXXU1AQDH
-ro.build.version.sdk=23
+ro.build.version.sdk=28
 ro.build.version.preview_sdk=0
 ro.build.version.codename=REL
 ro.build.version.all_codenames=REL
-ro.build.version.release=8.0.0
+ro.build.version.release=9
 ro.build.version.security_patch=2018-03-01
 ro.build.version.base_os=
 ro.build.date=Thu Mar 16 21:47:41 KST 2017
@@ -38,7 +38,7 @@ ro.board.platform=msm8974
 ro.build.product=dream2lte
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=dream2ltexx-user 6.0.1 MMB29K G955FXXU1AQDH release-keys
-ro.build.fingerprint=samsung/dream2ltexx/dream2lte:6.0.1/MMB29K/G955FXXU1AQDH:user/release-keys
+ro.build.fingerprint=samsung/kltexx/klte:6.0.1/MMB29K/G955FXXU1AQDH:user/release-keys
 ro.build.characteristics=phone
 # Samsung Specific Properties
 ro.build.PDA=G955FXXU1AQDH
